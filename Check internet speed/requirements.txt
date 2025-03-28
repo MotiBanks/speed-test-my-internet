@@ -1,2 +1,0 @@
-streamlstreamlit
-speedtest-cli
